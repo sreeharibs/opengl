@@ -1,7 +1,22 @@
-# opengl
+# OpenGL
 Course materials for "A Workshop on OpenGL"
 
-#Syllabus
+# Configuring IDE
+
+sudo add-apt-repository ppa:damien-moore/codeblocks-stable
+
+sudo apt-get update 
+
+sudo apt-get install codeblocks codeblocks-contrib
+
+# Additional Requirements
+
+https://github.com/sreeharibs/freeglut-mingw
+
+sudo apt-get install libxxf86vm-dev
+
+
+# Syllabus
 
 1. Basic Structure of OpenGL
 2. Simple Triangle
