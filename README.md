@@ -32,4 +32,18 @@ sudo apt-get install libxxf86vm-dev
     3.2 Animate ship using high level functions
 4. 2D shape from user input
 
-    4.1 
+    4.1 Matrix Functions
+    
+    4.2 Translation
+    
+    4.3 Further expansion to Rot,Scaling 
+
+5. Line Clipping - outline
+        
+    5.1 Line Cliping - complete
+    
+    5.2 Edit - Draw line via mouse click
+    
+6. Graph
+
+    6.1 
