@@ -1,6 +1,8 @@
 # OpenGL
 Course materials for "A Workshop on OpenGL"
 
+http://github.com/sreeharibs/opengl
+
 # Configuring IDE
 
 sudo add-apt-repository ppa:damien-moore/codeblocks-stable
