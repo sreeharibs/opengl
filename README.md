@@ -46,6 +46,10 @@ sudo apt-get install libxxf86vm-dev
     
     5.2 Edit - Draw line via mouse click
     
-6. Graph
+6. Graph - Outline - Vertex Only
 
-    6.1 
+    6.1 Added Edges to Graph
+
+7. Graph - DFS Algorithm
+        
+    
