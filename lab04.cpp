@@ -15,7 +15,6 @@ void display(){
 
     glClear( GL_COLOR_BUFFER_BIT );
 
-    //static - ship
     glBegin(GL_LINE_LOOP);
 
             glColor3f( 1.0 , 0.0 , 0.0 );
